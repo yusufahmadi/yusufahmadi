@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there and welcome👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&range=last_3_years)
+
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning C#,PHP,JAVA and GO.
+- 👯 I’m looking to collaborate on Github
+- 📫 How to reach me: [Telegram](https://t.me/yusufahmadi_dev)
 
 <!--
 **yusufahmadi/yusufahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
