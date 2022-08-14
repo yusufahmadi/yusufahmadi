@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: [Telegram](https://t.me/yusufahmadi_dev)
 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=prs&show_icons=true&include_all_commits=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufahmadi&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" title="HTML5"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title="CSS"/> </a>  
@@ -34,25 +30,25 @@
   <!--a href="https://www.typescript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="50" height="50" title="Typescript"/> </a-->
   <!--a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" title="MongoDB"/> </a-->
   <!--a href="https://www.aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" title="Amazon Web Services"/> </a-->
+
+<br/>
+<div align="center">
+  <a href="https://github.com/24spell">
+    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=prs&show_icons=true&include_all_commits=true&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufahmadi&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
+    </p>
+</div>
   
-  
-  <br/>
-  <br/>
-  <br/>
+<div align="center">
+
+###  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&pause=500&color=22B72F&background=FFFFFF00&center=true&vCenter=true&lines=Let's+Talk!" alt="Typing SVG" /></a>
+
+  <a href="https://www.linkedin.com/in/yusufahmadi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:ucup.development@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://instagram.com/cup.io" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 <br/>
 <br/>
-
-<!--
-**yusufahmadi/yusufahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+  <p> <img src="https://komarev.com/ghpvc/?username=yusufahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="24spell"/> </p>
+</div>
