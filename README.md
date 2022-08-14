@@ -38,9 +38,9 @@
 ## 🐱 My GitHub Data
 
 <div align="center">
-  <a href="https://github.com/24spell">
-    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=prs&show_icons=true&include_all_commits=true&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufahmadi&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
+  <a href="https://github.com/yusufahmadi">
+    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=prs&show_icons=true&include_all_commits=true&theme=buefy&show_icons=true&locale=en" alt="yusufahmadi"/>
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufahmadi&theme=buefy&show_icons=true&locale=en" alt="yusufahmadi"/>
     </p>
 </div>
 
@@ -59,5 +59,5 @@
 <br/>
 
 <div align="right">
-  <p> <img src="https://komarev.com/ghpvc/?username=yusufahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="24spell"/> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=yusufahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="yusufahmadi"/> </p>
 </div>
