@@ -1,10 +1,12 @@
-### Hi there and welcome👋
-
+## 👋 Hi, I'm Yusuf from Indonesia!
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning C#,PHP,JAVA and GO.
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: [Telegram](https://t.me/yusufahmadi_dev)
 
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"> 
+
+## 🔧 Technologies & Tools
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" title="HTML5"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title="CSS"/> </a>  
@@ -32,13 +34,19 @@
   <!--a href="https://www.aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" title="Amazon Web Services"/> </a-->
 
 <br/>
+
+## 🐱 My GitHub Data
+
 <div align="center">
   <a href="https://github.com/24spell">
     <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=yusufahmadi&hide=prs&show_icons=true&include_all_commits=true&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufahmadi&theme=buefy&show_icons=true&locale=en" alt="24spell"/>
     </p>
 </div>
-  
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufahmadi&theme=nord&column=7)](https://github.com/yusufahmadi/github-profile-trophy)
+
 <div align="center">
 
 ###  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&pause=500&color=22B72F&background=FFFFFF00&center=true&vCenter=true&lines=Let's+Talk!" alt="Typing SVG" /></a>
@@ -49,6 +57,7 @@
 </div>
 <br/>
 <br/>
+
 <div align="right">
   <p> <img src="https://komarev.com/ghpvc/?username=yusufahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="24spell"/> </p>
 </div>
