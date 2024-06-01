@@ -15,7 +15,7 @@
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c" width="50" height="50" title="C#"/></a>
  <a href="https://www.tutorialspoint.com/vb.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="c" width="50" height="50" title="VB.Net"/></a>
  <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" title="PHP"/> </a>
- <a href="https://www.laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="php" width="50" height="50" title="Laravel"/> </a>
+ <a href="https://www.laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="php" width="50" height="50" title="Laravel"/> </a>
  <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="php" width="50" height="50" title="Go"/> </a>
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" title="Java"/> </a>
  <a href="https://www.github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" title="GitHub"/></a> 
